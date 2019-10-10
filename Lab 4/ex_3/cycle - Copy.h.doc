@@ -1,0 +1,6 @@
+4.3 cycle.h
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include "linkedlist.h"
+bool testcyclic(struct linkedList*head);
