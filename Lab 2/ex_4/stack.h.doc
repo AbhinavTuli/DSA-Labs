@@ -1,5 +1,0 @@
-2.4 stack.h
-#include <stdio.h>
-
-void push(struct linkedList*head, int ele);
-int pop(struct linkedList* head);
